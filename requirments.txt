@@ -1,0 +1,7 @@
+pywebio
+requests
+beautifulsoup4
+pandas
+numpy
+torch
+openpyxl
